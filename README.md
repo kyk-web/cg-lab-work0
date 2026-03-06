@@ -24,6 +24,7 @@ CG-Lab/
 ├─ main.py
 ├─ pyproject.toml
 └─ uv.lock
+```
 
 ---
 
