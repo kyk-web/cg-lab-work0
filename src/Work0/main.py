@@ -1,4 +1,5 @@
 # src/Work0/main.py
+#创建窗口、读取鼠标、调用physics更新、把粒子画出来
 import taichi as ti
 
 # 注意：初始化必须在最前面执行，接管底层 GPU
